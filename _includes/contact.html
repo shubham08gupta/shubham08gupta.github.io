@@ -69,7 +69,13 @@
 
     {% if sidebar.goodreads %}
     <li class="goodreads-g"><i class="fab fa-goodreads-g"></i>
-      <a href="https://www.goodreads.com/user/show/{{ sidebar.goodreads }}" target="_blank">{{ sidebar.goodreads }}</a>
+      <a href="https://medium.com/@{{ sidebar.goodreads }}" target="_blank">{{ sidebar.goodreads }}</a>
+    </li>
+    {% endif %}
+
+    {% if sidebar.medium %}
+    <li class="medium-m"><i class="fab fa-medium"></i>
+      <a href="https://medium.com/@{{ sidebar.medium }}" target="_blank">{{ sidebar.medium }}</a>
     </li>
     {% endif %}
 
