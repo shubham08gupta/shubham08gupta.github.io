@@ -81,43 +81,45 @@ education:
         Studied various subjects
           - Prepared to take engineering course for future
 experiences:
-    - role: Lead Developer
-      time: 2015 - Present
-      company: Startup Hubs, San Francisco
+    - role: Android Engineer
+      time: Oct 2019 - Present
+      company: Unifa Corporation, Tokyo, Japan
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-        enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-        error sit voluptatem accusantium doloremque laudantium, totam rem
-        aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-        architecto beatae vitae dicta sunt explicabo.
-          - Bullet point
-          - Bullet point
-    - role: Senior Software Engineer
-      time: 2014 - 2015
-      company: Google, London
+        As an Android Engineer, my work is to create Android applications
+        which are used by 1000s of nursery schools throughout Japan.
+        I focus on scalability, understandability and self expressive code.
+        Responsibilities:
+          - Build Android applications from scratch to finish
+          - Communicate with the team to discuss about the customer requirements
+          - Automate workflow using CI/CD tools
+          - Discuss about the latest trends with the designers
+          - Publish application on the Google Play store
+          - Suggest better and cheap alternatives over expensive services(e.g. Firebase App Distribution over Deploygate, Bitrise over CircleCI)
+    - role: Software Engineer
+      time: July 2017 - Aug 2019
+      company: Think Future Technologies, Haryana, India
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
-          - Bullet point
-          - Bullet point
-    - role: UI Developer
-      time: 2012 - 2014
-      company: Amazon, London
+        TFT, being a service company gave me an opportunity to work on various 
+        domains of Android such as Networking, Security, Database, Camera, 
+        Location Service, Map, Analytics, etc.
+        Responsibilities:
+          - Built various Android applications for international clients
+          - Mentored 2 interns about Android programming for 3 months
+          - Communicated with the clients to ask about the requirements
+          - Created MVPs for potential projects
+          - Discussed with the marketing team and the client about the technical implementation of the project
+    - role: Android Developer
+      time: July 2016 - 2017
+      company: Codeyeti, Noida, India
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
-          - Bullet point
-          - Bullet point
+        As a fresher in the IT industry, I tried to learn a lot from the
+        seniors. I was able to work on a lot of projects thereby applying my
+        newly learnt skills. I emerged as one of the best fresher Android developer in 
+        the team of 10 developers.
+        Responsibilities:
+          - Built applications quickly by using resuable components like maps, networking, serialization
+          - Analyzed the client requirements and provided best techinical alternatives
+          - Discussed potential glitches in UI/UX to prevent failures
 projects:
     title: Projects
     intro: >
