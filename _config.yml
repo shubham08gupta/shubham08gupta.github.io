@@ -3,8 +3,8 @@
 
 # Site Settings
 title: My Resume
-url: 'https://shubham08gupta.github.io/'
-baseurl: '/resume' #change it according to your repository name
+url: 'https://shubham08gupta.github.io' #e.g.: www.example.com
+baseurl: '/resume' #the sub path of your site e.g. /blogs
 description: A beautiful Jekyll theme for creating resume
 # Style will be applied only after restarting the build or serve. Just choose one of the options.
 theme_skin: blue # blue turquoise green berry orange ceramic
