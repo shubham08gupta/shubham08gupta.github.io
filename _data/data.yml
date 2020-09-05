@@ -169,23 +169,26 @@ skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: Python & Django
-        level: 98%
-
-      - name: Javascript & jQuery
-        level: 98%
-
-      - name: Angular
-        level: 98%
-
-      - name: HTML5 & CSS
+      - name: Java
         level: 95%
 
-      - name: Ruby on Rails
+      - name: Kotlin
+        level: 90%
+
+      - name: Git
+        level: 96%
+
+      - name: Firebase
         level: 85%
 
-      - name: Sketch & Photoshop
-        level: 60%
+      - name: React Native
+        level: 35%
+
+      - name: Javascript
+        level: 50%
+  
+      - name: SQLite
+        level: 80%
 
 footer: >
     Developed with <i class="fas fa-heart"></i> by Shubham Gupta using Jekyll themes. Find the source code <a href="https://github.com/shubham08gupta/shubham08gupta.github.io">here</a>.
