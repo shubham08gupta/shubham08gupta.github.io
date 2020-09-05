@@ -56,28 +56,30 @@ career-profile:
       Donec quam felis, ultricies nec, pellentesque eu.
       Second paragraph if required.
 education:
-    - degree: MSc in Computer Science
-      university: University of London
+    - degree: B.Tech. in Computer Science
+      university: Deenbandhu Chhotu Ram University, Harayana, India
+      time: 2012 - 2016
+      gpa: 7.84 /10
+      details: |
+        Majored in Computer Science Engineering.
+          - Honours degree
+          - Attended Data Structure and Alogrithm course
+          - Learnt various Computer science subject like Computer Networks, Databases, Compiler Design, etc.
+    - degree: Senior High School (12th)
+      university: St. Margaret Sr. Sec. School, Delhi, India
       time: 2011 - 2012
+      gpa: 93.2 /100
       details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
-          - Bullet point
-          - Bullet point
-    - degree: BSc in Applied Mathematics
-      university: Bristol University
-      time: 2007 - 2011
+          - Studied Physics, Chemistry and Mathematics      
+          - Achieved 3rd position in the school
+          - Highest marks in Mathematics subject (99/100)
+    - degree: High School (10th)
+      university: St. Margaret Sr. Sec. School, Delhi, India
+      time: 2009 - 2010
+      gpa: 8.8 /10
       details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
-          - Bullet point
-          - Bullet point
+        Studied various subjects
+          - Prepared to take engineering course for future
 experiences:
     - role: Lead Developer
       time: 2015 - Present
