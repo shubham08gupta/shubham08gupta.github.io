@@ -49,12 +49,9 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      Summarise your career here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. You can [download this free resume/CV template here]().
-      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-      Donec quam felis, ultricies nec, pellentesque eu.
-      Second paragraph if required.
+      I'm a 4+ years experienced Android professional with
+      an Associate Android Developer Google [certification](http://bcert.me/sejnrmey). 
+      Currently, I'm working at Unifa Corporation in Tokyo but I'm originially from Delhi, India. 
 education:
     - degree: B.Tech. in Computer Science
       university: Deenbandhu Chhotu Ram University, Harayana, India
