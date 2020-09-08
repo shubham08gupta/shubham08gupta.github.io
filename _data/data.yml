@@ -119,30 +119,34 @@ experiences:
           - Discussed potential glitches in UI/UX to prevent failures
 projects:
     title: Projects
-    intro: >
-      You can list your side projects or open source libraries in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+    # intro: >
+    #   You can list your side projects or open source libraries in this
+    #   section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+    #   Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
     assignments:
-      - title: Velocity
-        link: "#hook"
-        tagline: "A responsive website template designed to help startups promote, market and sell their products."
+      - title: LookMee Bus Driver
+        link: "https://play.google.com/store/apps/details?id=com.unifa_e.bus.driver"
+        tagline: "An Android application that sends the precise location of the school bus to the parents. The bus stops and the route list are updated in real-time​."
 
-      - title: DevStudio
-        link: "#"
-        tagline: "A responsive website template designed to help web developers/designers market their services."
+      - title: Kidsly
+        link: "https://play.google.com/store/apps/details?id=jp.recruit.kidsly"
+        tagline: "An android application used by the Nursery schools and the children's parents. The app solves the problem of a child's whereabouts giving real-time updates when they are in the school. The nursery school analyses every child's health data and updates the parent using a simple to use android/ios app."
 
-      - title: Tempo
-        link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
+      - title: MyPrivacy
+        link: "​https://play.google.com/store/apps/details?id=com.myprivacy"
+        tagline: "A centralized security and privacy app. Features include - AppLock, Password Manager, Private Browser, and Vault."
 
-      - title: Atom
-        link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
+      - title: Playsive
+        link: "https://play.google.com/store/apps/details?id=com.playsive.android.prod"
+        tagline: "​It’s a competitive live social mobile gaming platform which supports multiplayer gaming."
 
-      - title: Delta
-        link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
+      - title: WooDoo
+        link: "https://play.google.com/store/apps/details?id=com.woodoo"
+        tagline: "WooDoo rewards users who watch news, magazines, articles on their smartphone. It provides offers and deals which can be redeemed at outlets. The lock screen content is time-based and can be easily configured."
+      
+      - title: Hundred
+        link: "https://play.google.com/store/apps/details?id=com.joinhundred_app"
+        tagline: "A React Native app which helps people stick to their vitamin plan using timely reminders and nutrition expert advice."
 
 # publications:
 #     title: Publications
