@@ -11,6 +11,16 @@ sidebar:
     tagline: Mobile App Developer
     avatar: profile.jpg  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
+    details:
+      - title: D.O.B.
+        description: 1994/08/17 (26 years old)
+      
+      - title: Nationality
+        description: Indian
+
+      - title: Maritial Status
+        description: Single
+
     # Sidebar links
     email: shubham6222gupta@gmail.com
     phone: (+81) 80 1391 7617
