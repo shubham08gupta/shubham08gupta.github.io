@@ -62,9 +62,12 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      I'm a 4+ years experienced Android professional with
+      I'm 4+ years experienced Android professional with
       an Associate Android Developer Google [certification](http://bcert.me/sejnrmey). 
-      Currently, I'm working at Unifa Corporation in Tokyo but I'm originially from Delhi, India. 
+      I'm from Delhi, India, and working at Unifa Corporation in Tokyo, Japan. 
+      I'm obsessed with cleanliness - either with code or environment. 
+      I have a strong background in Kotlin and Java. Moreover, I work on React Native as a freelancer.
+      
 education:
     - degree: B.Tech. in Computer Science
       university: Deenbandhu Chhotu Ram University, Harayana, India
@@ -119,7 +122,7 @@ experiences:
           - Created MVPs for potential projects
           - Discussed with the marketing team and the client about the technical implementation of the project
     - role: Android Developer
-      time: July 2016 - 2017
+      time: July 2016 - June 2017
       company: Codeyeti, Noida, India
       details: |
         As a fresher in the IT industry, I tried to learn a lot from the
