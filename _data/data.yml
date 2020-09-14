@@ -140,21 +140,21 @@ projects:
     #   section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
     #   Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
     assignments:
-      - title: LookMee Bus Driver
-        link: "https://play.google.com/store/apps/details?id=com.unifa_e.bus.driver"
-        tagline: "An Android application that sends the precise location of the school bus to the parents. The bus stops and the route list are updated in real-time​."
-
       - title: Kidsly
         link: "https://play.google.com/store/apps/details?id=jp.recruit.kidsly"
         tagline: "An android application used by the Nursery schools and the children's parents. The app solves the problem of a child's whereabouts giving real-time updates when they are in the school. The nursery school analyses every child's health data and updates the parent using a simple to use android/ios app."
 
       - title: MyPrivacy
-        link: "​https://play.google.com/store/apps/details?id=com.myprivacy"
+        link: "https://play.google.com/store/apps/details?id=com.myprivacy"
         tagline: "A centralized security and privacy app. Features include - AppLock, Password Manager, Private Browser, and Vault."
 
       - title: Playsive
         link: "https://play.google.com/store/apps/details?id=com.playsive.android.prod"
-        tagline: "​It’s a competitive live social mobile gaming platform which supports multiplayer gaming."
+        tagline: "It’s a competitive live social mobile gaming platform which supports multiplayer gaming."
+
+      - title: LookMee Bus Driver
+        link: "https://play.google.com/store/apps/details?id=com.unifa_e.bus.driver"
+        tagline: "An Android application that sends the precise location of the school bus to the parents. The bus stops and the route list are updated in real-time​."
 
       - title: WooDoo
         link: "https://play.google.com/store/apps/details?id=com.woodoo"
