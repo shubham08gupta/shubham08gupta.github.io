@@ -204,9 +204,6 @@ skills:
 
       - name: React Native
         level: 35%
-
-      - name: Javascript
-        level: 50%
   
       - name: SQLite
         level: 80%
