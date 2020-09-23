@@ -160,6 +160,14 @@ projects:
         link: "https://play.google.com/store/apps/details?id=com.woodoo"
         tagline: "WooDoo rewards users who watch news, magazines, articles on their smartphone. It provides offers and deals which can be redeemed at outlets. The lock screen content is time-based and can be easily configured."
       
+      - title: Invoiz
+        link: "https://play.google.com/store/apps/details?id=com.onlineinvoiceapp"
+        tagline: "An app that replaces paper receipts with digital receipts. It can help set a monthly budget and manage expenditures."
+      
+      - title: MaskChat
+        link: "https://play.google.com/store/apps/details?id=com.maskchat"
+        tagline: "MaskChat is a unique digital mask designed to maintain privacy from onlookers, intruders, trespassers. It has a curtain that can be scrolled up and down to hide the chat."
+      
       - title: Hundred
         link: "https://play.google.com/store/apps/details?id=com.joinhundred_app"
         tagline: "A React Native app which helps people stick to their vitamin plan using timely reminders and nutrition expert advice."
