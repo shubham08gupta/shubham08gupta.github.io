@@ -102,11 +102,11 @@ experiences:
         which are used by 1000s of nursery schools throughout Japan.
         I focus on scalability, understandability and self expressive code.
         Responsibilities:
-          - Build Android applications from scratch to finish
-          - Communicate with the team to discuss about the customer requirements
-          - Automate workflow using CI/CD tools
-          - Discuss about the latest trends with the designers
-          - Publish application on the Google Play store
+          - Refactored more than 50% app from Java to Kotlin
+          - Implemented MVP, MVVM architecture, Android Architecture Components, Dagger
+          - Utilized CircleCI, Fastlane for automatic app deployment on Google Play store
+          - Implement Material Design Components (MDC) with dark theme support
+          - Added Unit tests with more than 75% test coverage
           - Suggest better and cheap alternatives over expensive services(e.g. Firebase App Distribution over Deploygate, Bitrise over CircleCI)
     - role: Software Engineer
       time: July 2017 - Aug 2019
@@ -116,11 +116,9 @@ experiences:
         domains of Android such as Networking, Security, Database, Camera, 
         Location Service, Map, Analytics, etc.
         Responsibilities:
-          - Built various Android applications for international clients
           - Mentored 2 interns about Android programming for 3 months
-          - Communicated with the clients to ask about the requirements
           - Created MVPs for potential projects
-          - Discussed with the marketing team and the client about the technical implementation of the project
+          - Designed a multi-modular architecture that easily converts multiple modules into their separate apps
     - role: Android Developer
       time: July 2016 - June 2017
       company: Codeyeti, Noida, India
@@ -130,9 +128,8 @@ experiences:
         newly learnt skills. I emerged as one of the best fresher Android developer in 
         the team of 10 developers.
         Responsibilities:
-          - Built applications quickly by using resuable components like maps, networking, serialization
-          - Analyzed the client requirements and provided best techinical alternatives
-          - Discussed potential glitches in UI/UX to prevent failures
+          - Created a POC(Proof of Concept) by leveraging VPN and strongSwan technology
+          - Contributed to various projects by improving codebase and fixing bugs
 projects:
     title: Projects
     # intro: >
