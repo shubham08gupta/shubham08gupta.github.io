@@ -10,6 +10,6 @@ Developed on top of [https://github.com/sharu725/online-cv] using [Jekyll](https
 3. Create a new repository like yourgithubname/yourgithubname.github.io. For eg: my github id is shubham08gupta. So I created a new repository with a name as shubham08gupta/`shubham08gupta.github.io`.
 4. [Optional] create a branch called `gh-pages`.
 5. Push the code in your created repository. If you've created a `gh-pages` branch, check the repository settings page and select `gh-pages` branch.
-6. Check your brand new site at http://yourgithubname.github.io/. It may take a several minutes to generate the site.
+6. Check your brand new site at http://yourgithubname.github.io/. It may take several minutes to generate the site.
 
-Still facing problems? Check official website- [https://pages.github.com/](https://pages.github.com/)
+Still facing problems? Check the official website- [https://pages.github.com/](https://pages.github.com/)
