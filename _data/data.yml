@@ -108,9 +108,9 @@ experiences:
           - Refactored more than 50% app from Java to Kotlin
           - Implemented MVP, MVVM architecture, Android Architecture Components, Dagger
           - Utilized CircleCI, Fastlane for automatic app deployment on Google Play store
-          - Implement Material Design Components (MDC) with dark theme support
+          - Implemented Material Design Components (MDC) with dark theme support
           - Added Unit tests with more than 75% test coverage
-          - Suggest better and cheap alternatives over expensive services(e.g. Firebase App Distribution over Deploygate, Bitrise over CircleCI)
+          - Helped reduce cost by using equally good cheap tools(e.g. Firebase App Distribution over Deploygate, Bitrise over CircleCI)
     - role: Software Engineer
       time: July 2017 - Aug 2019
       company: Think Future Technologies, Haryana, India
