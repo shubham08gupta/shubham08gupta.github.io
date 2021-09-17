@@ -140,8 +140,8 @@ projects:
     #   section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
     #   Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
     assignments:
-      - title: Kidsly
-        link: "https://play.google.com/store/apps/details?id=jp.recruit.kidsly"
+      - title: Lookme for family
+        link: "https://play.google.com/store/apps/details?id=com.unifa_e.hiyoko.family"
         tagline: "An android application used by the Nursery schools and the children's parents. The app solves the problem of a child's whereabouts giving real-time updates when they are in the school. The nursery school analyses every child's health data and updates the parent using a simple to use android/ios app."
 
       - title: MyPrivacy
