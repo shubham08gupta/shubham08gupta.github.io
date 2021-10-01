@@ -97,6 +97,11 @@ education:
         Studied various subjects
           - Prepared to take engineering course for future
 experiences:
+    - role: Senior Android Engineer
+      time: Oct 2021 - Present
+      company: Papershift
+      details: |
+        Working on the Papershift product
     - role: Android Engineer
       time: Oct 2019 - Sep 2021
       company: Unifa Corporation, Tokyo, Japan
