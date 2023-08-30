@@ -90,15 +90,22 @@ education:
       university: St. Margaret Sr. Sec. School, Delhi, India
       time: 2009 - 2010
       gpa: 8.8 /10
-      details: |
-        Studied various subjects
-          - Prepared to take engineering course for future
 experiences:
     - role: Senior Android Engineer
-      time: Oct 2021 - Present
+      time: Apr 2022 - Present
+      company: Getir GmbH
+      details: |
+        - Achieved a 33% reduction in app startup time, optimizing it from 3 seconds to 2 seconds
+        - Boosted user engagement and growth by enhancing the log-in/sign-up experience, resulting in 30,000 new registered users
+        - Streamlined the delivery address adding process, resulting in reduced errors and minimized user inquiries
+        - Collaborated effectively with multiple teams, delivering features rapidly and with high efficiency
+        - Successfully converted over 10 modules from VIPER to MVVM architecture, implementing unit testing for robustness and scalability
+        - Undertook a Java to Kotlin code refactoring initiative, enhancing developer experience and mitigating potential null pointer exceptions
+    - role: Senior Android Engineer
+      time: Oct 2021 - March 2022
       company: Papershift
       details: |
-        Working on the Papershift product
+        Android app development of the Papershift product which allows users to mark their attendance, apply for absences, sync data with server.
     - role: Android Engineer
       time: Oct 2019 - Sep 2021
       company: Unifa Corporation, Tokyo, Japan
