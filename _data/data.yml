@@ -62,11 +62,7 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      I'm 5+ years experienced Android professional with
-      an Associate Android Developer Google [certification](http://bcert.me/sejnrmey). 
-      I'm from Delhi, India, and working at Papershift in Germany.
-      I'm obsessed with cleanliness - either with code or environment. 
-      I have a strong background in Kotlin and Java.
+      Senior Android Engineer with 7+ years of experience and a proven track record of success. Google-certified in Android development and skilled in Java, Kotlin, Dagger, Gradle, multithreading, Kotlin Coroutines, Flow, MVP, MVVM, and SOLID design principles. Proficient in Goethe German A1 language skill (beginner level).
       
 education:
     - degree: B.Tech. in Computer Science
@@ -95,10 +91,15 @@ education:
           - Prepared to take engineering course for future
 experiences:
     - role: Senior Android Engineer
-      time: Oct 2021 - Present
+      time: Apr 2022 - Nov 2023
+      company: Getir GmbH
+      details: |
+        As a Senior Android Engineer, I mentored and coached junior engineers, providing constructive feedback on pull requests to help them learn and grow. I also participated in discussions with engineering managers and product managers to shape our product, and brainstormed with backend developers to improve our onboarding process.
+    - role: Senior Android Engineer
+      time: Oct 2021 - Apr 2022
       company: Papershift
       details: |
-        Working on the Papershift product
+        In my capacity as a Senior Android Developer at Papershift, I played a pivotal role in enhancing the functionality and user experience of the Papershift Station Android app, as well as contributing to the development of a forthcoming, unreleased application. My responsibilities encompassed optimizing the user interface for various device form factors, including mobile and tablet, and harmonizing critical functionalities, such as work start and end times, offline synchronization, and more.
     - role: Android Engineer
       time: Oct 2019 - Sep 2021
       company: Unifa Corporation, Tokyo, Japan
